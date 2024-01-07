@@ -21,4 +21,4 @@ tar -cvf home_backup_"$(date +%d-%m-%Y_%H-%M-%S)".tar /home
 
 echo "*** DONE: Backup cerated ***"
 
-exit 1
+exit 0
